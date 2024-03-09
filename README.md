@@ -16,7 +16,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CodeGenius.git
+   git clone https://github.com/craftingeagle/CodeGenius.git
    ```
 2. Navigate to the directory:
    ```bash
