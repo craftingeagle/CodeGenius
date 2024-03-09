@@ -4,8 +4,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/CodeGenius)
 
-CodeGenius is an AI-powered tool that helps developers review code for errors, inefficiencies, and adherence to best practices. It integrates with popular version control systems like Git and provides suggestions for improvements.
-
 ## 🚀 Features
 
 - Detect errors and inefficiencies in code
