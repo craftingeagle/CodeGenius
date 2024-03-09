@@ -1,5 +1,7 @@
 # 🤖 CodeGenius
 
+🤖 CodeGenius is your AI code review assistant! 🚀 Detect errors, inefficiencies, and best practices violations in your code with ease. Integrates seamlessly with Git. Get actionable suggestions for improvements. Take your code quality to the next level! 🌟 #AI #CodeReview 🛠️
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/CodeGenius)
 
 CodeGenius is an AI-powered tool that helps developers review code for errors, inefficiencies, and adherence to best practices. It integrates with popular version control systems like Git and provides suggestions for improvements.
