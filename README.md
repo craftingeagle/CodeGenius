@@ -49,6 +49,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 For questions or feedback, feel free to reach out to us at code.crafting.eagle@gmail.com
-
-
-This `README.md` file provides an overview of the CodeGenius project, its features, installation instructions, usage guidelines, contribution guidelines, license information, and contact details, all adorned with emojis for added flair.
