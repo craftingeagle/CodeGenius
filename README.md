@@ -18,7 +18,7 @@
    ```bash
    git clone https://github.com/yourusername/CodeGenius.git
    ```
-2. Install dependencies:
+2. Navigate to the directory:
    ```bash
    cd CodeGenius
    ```
