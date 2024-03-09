@@ -18,17 +18,20 @@
    ```bash
    git clone https://github.com/yourusername/CodeGenius.git
    ```
-   
-2. Navigate to the `src` directory:
+2. Install dependencies:
    ```bash
-   cd CodeGenius/src
+   cd CodeGenius
    ```
-   
-4. Install dependencies:
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
    
+4. Navigate to the `src` directory:
+   ```bash
+   cd CodeGenius/src
+   ```
+      
 5. Run the main script:
    ```bash
    python3 main.py
