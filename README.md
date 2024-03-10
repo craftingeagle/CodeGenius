@@ -2,6 +2,9 @@
 
 🤖 CodeGenius is your AI code review assistant! 🚀 Detect errors, inefficiencies, and best practices violations in your code with ease. Integrates seamlessly with Git. Get actionable suggestions for improvements. Take your code quality to the next level! 🌟 #AI #CodeReview 🛠️
 
+![image](https://github.com/craftingeagle/CodeGenius/assets/162383653/95107aba-d290-4614-a5fd-4f028d02350f)
+
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/CodeGenius)
 
 ## 🚀 Features
